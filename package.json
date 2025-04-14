@@ -1,0 +1,12 @@
+{
+  "name": "ghostx",
+  "version": "1.0.0",
+  "description": "Advanced gaming enhancement platform",
+  "main": "src/core/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^35.1.5"
+  }
+}
